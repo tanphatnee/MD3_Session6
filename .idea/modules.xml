@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bt1/Bt1.iml" filepath="$PROJECT_DIR$/Bt1/Bt1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bt2/Bt2.iml" filepath="$PROJECT_DIR$/Bt2/Bt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bt3/Bt3.iml" filepath="$PROJECT_DIR$/Bt3/Bt3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bt4/Bt4.iml" filepath="$PROJECT_DIR$/Bt4/Bt4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bt5/Bt5.iml" filepath="$PROJECT_DIR$/Bt5/Bt5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bt6/Bt6.iml" filepath="$PROJECT_DIR$/Bt6/Bt6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sesson6.iml" filepath="$PROJECT_DIR$/Sesson6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Th1/Th1.iml" filepath="$PROJECT_DIR$/Th1/Th1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Th2/Th2.iml" filepath="$PROJECT_DIR$/Th2/Th2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Th3/Th3.iml" filepath="$PROJECT_DIR$/Th3/Th3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Th4/Th4.iml" filepath="$PROJECT_DIR$/Th4/Th4.iml" />
+    </modules>
+  </component>
+</project>
